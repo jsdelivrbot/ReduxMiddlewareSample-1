@@ -1,12 +1,9 @@
 # ReduxMiddlewareSample
 
-This project is an udemy course exercise. Objective is to learn redux middleware
+This project is an udemy course exercise. Objective is to learn redux middleware, calls weather API from reducers.
 
 ###Getting Started###
 
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
@@ -16,3 +13,5 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 	> npm start
 ```
 
+#########use this command to download and install all npm modules if you get any error#####
+>> rm -rf node_modules/ && npm cache clean && npm install
